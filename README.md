@@ -73,7 +73,7 @@ Pengguna dapat keluar dari aplikasi setelah selesai berbelanja. Sebelum keluar, 
 
 *2) Masukkan Jumlah yang akan Dibayar*
 
-![Image10](https://github.com/CantykaLaily-231401004/LabAP1-UAS-Odd/assets/162383198/bcac4eed-9772-45d9-9bd8-c6558a8ddd20)
+![Image10](https://github.com/CantykaLaily-231401004/LabAP1-UAS-Odd/assets/162383198/38b62802-f66c-4776-b174-dd331730dd1b)
 
 *3) Tekan Enter Setelah Selesai Membayar*
 
@@ -83,7 +83,7 @@ Pengguna dapat keluar dari aplikasi setelah selesai berbelanja. Sebelum keluar, 
 *1) Pilih Menu 5 untuk Keluar*
 
 ![Image11](https://github.com/CantykaLaily-231401004/LabAP1-UAS-Odd/assets/162383198/ef7f3d4e-9d21-4efb-b099-5b9e82a4fbab)
-![Image12](https://github.com/CantykaLaily-231401004/LabAP1-UAS-Odd/assets/162383198/db5a6b84-35ac-4510-becc-87d258067219)
+![Image12](https://github.com/CantykaLaily-231401004/LabAP1-UAS-Odd/assets/162383198/fbe1108f-7a92-4fb6-8e9e-53d39e87dae4)
 
 
 ## Link Video Presentasi
