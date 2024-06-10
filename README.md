@@ -3,21 +3,20 @@
 
 ## Nama Anggota Kelompok:
 1. Cantyka Laily Sabila (231401004)
-2. Cantyka Laily Sabila (231401019)
+2. Rubayyi Hasnaz(231401019)
 
 ## Deskripsi Program
 Aplikasi Supermarket Billing System ini memiliki beberapa fitur yaitu:
 1. Daftar Produk
 Pengguna dapat melihat daftar produk yang tersedia beserta kode, nama, dan harga produk.
 2. Tambah Produk
-Pengguna dapat menambahkan produk ke dalam keranjang belanja dengan memasukkan kode atau nama produk yang diinginkan serta jumlahnya.
+Pengguna dapat menambahkan produk ke dalam keranjang belanja dengan memasukkan kode atau nama produk yang diinginkan serta berapa banyak jumlah yang diinginkan.
 3. Tampilkan Bill
-Pengguna dapat melihat rincian belanjaan mereka dalam bentuk struk pembayaran. Struk ini mencakup tanggal dan waktu transaksi, nama produk, harga per produk, jumlah produk yang dibeli, dan total harga.
+Pengguna dapat melihat rincian belanjaan mereka dalam bentuk struk pembayaran. Struk ini mencakup tanggal dan waktu transaksi, nama produk, harga per produk, jumlah produk yang dibeli, dan total harga. Apabila pengguna terlupa akan beberapa produk, pengguna dapat menambah produk yang diinginkan
 4. Pembayaran
-Pengguna dapat melakukan pembayaran untuk produk yang telah dipilih. Setelah produk dipilih dan jumlah pembayaran dimasukkan, sistem akan menghitung total harga dan menampilkan kembalian jika pembayaran berhasil.
+Pengguna dapat melakukan pembayaran untuk produk yang telah dipilih. Setelah produk dipilih dan jumlah pembayaran dimasukkan, sistem akan menghitung total harga dan menampilkan kembalian juga waktu pembayaran jika pembayaran berhasil.
 5. Keluar
 Pengguna dapat keluar dari aplikasi setelah selesai berbelanja. Sebelum keluar, aplikasi akan menampilkan struk pembayaran terakhir beserta jumlah yang dibayarkan dan kembalian, jika ada.
-
 ## Hasil Program
 ### 1. Tampilan Awal
 
