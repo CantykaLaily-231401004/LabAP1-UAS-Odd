@@ -3,7 +3,7 @@
 
 ## Nama Anggota Kelompok:
 1. Cantyka Laily Sabila (231401004)
-2. Rubayyi Hasnaz(231401019)
+2. Rubayyi Hasnaz (231401019)
 
 ## Deskripsi Program
 Aplikasi Supermarket Billing System ini memiliki beberapa fitur yaitu:
