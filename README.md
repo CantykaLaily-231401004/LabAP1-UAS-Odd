@@ -85,3 +85,4 @@ Pengguna dapat keluar dari aplikasi setelah selesai berbelanja. Sebelum keluar, 
 
 
 ## Link Video Presentasi
+https://drive.google.com/file/d/14MtrGHlz6fdADKp_6Ea3vGZizuZjOwQN/view?usp=drivesdk
